@@ -1,0 +1,1 @@
+/home/timophey/Arduino/rtc_read_3231/rtc_read_3231.ino
